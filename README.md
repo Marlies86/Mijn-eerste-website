@@ -1,9 +1,5 @@
-index.html
 <!DOCTYPE html>
 <html>
-    <head>
-        <title> Mijn eerst website </title>
-    </head>
     <body>
        <h1> Wie is Marlies </h1>
        <br>
