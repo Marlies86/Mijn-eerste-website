@@ -1,0 +1,23 @@
+body { 
+    color: black;
+}
+.blue-border {
+    border: 5px solid rgb(3, 3, 131);
+}
+#blue-background {
+    background-color: rgb(3, 3, 131);
+    font-size: 80px
+}
+h1 {
+    color: white;
+}
+h2 {
+    color:rgb(3, 3, 131)
+}
+h2 {
+    font-size: 30px
+}
+Body {
+    font-family:"georgia";
+
+}
