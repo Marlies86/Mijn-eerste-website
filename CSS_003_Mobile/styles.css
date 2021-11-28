@@ -1,0 +1,55 @@
+body { 
+    color: black;
+}
+.blue-border {
+    border: 5px solid rgb(3, 3, 131);
+    margin: 2%;
+    padding: 10px;
+}
+#blue-background {
+    background-color: rgb(3, 3, 131);
+    font-size: 80px
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin: 2%;
+}
+h2 {
+    color:rgb(3, 3, 131);
+    font-size: 30px;
+    margin: auto;
+}
+Body {
+    font-family:"Fredericka the great";
+}
+footer {
+    margin: 2%;
+}
+.inline {
+    display: inline;
+}
+@media (min-width: 1024px) {
+    a{
+        background-color: rgb(3, 3, 131);
+        color: white;
+        font-size: 16px;
+    }
+    body{
+        background-color: rgb(3, 3, 131);
+        color: white;
+        font-size: 16px;        
+    }
+    h1
+    {
+        border: 5px solid white;
+    }
+    h2
+    {
+        color: white;
+    }
+    .blue-border{
+        border: 5px solid white;
+    }
+}
+
